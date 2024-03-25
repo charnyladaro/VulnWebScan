@@ -1,0 +1,3 @@
+requests==2.26.0                 # For sending HTTP requests to the target web application.
+beautifulsoup4==4.10.0           # For parsing HTML content during web crawling.
+sqlmap==1.5.9.1                  # Optional: For automated SQL injection detection and exploitation.
